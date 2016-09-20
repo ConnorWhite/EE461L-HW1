@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+  <cron>
+    <url>/email</url>
+    <target>beta</target>
+    <description>weekly email digest</description>
+    <schedule>every monday 17:00</schedule> 
+    <!-- <schedule>every 2 minutes</schedule> -->
+    <timezone>America/Chicago</timezone>
+  </cron>
+</cronentries>
